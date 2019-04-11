@@ -12,6 +12,8 @@ public class UserBean {
 	
 	//EnityManager
 	
+	// TODO Agregar el entity manager.
+	
 	public UserBean() {
 		
 	}
